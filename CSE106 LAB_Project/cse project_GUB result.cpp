@@ -1,3 +1,7 @@
+/* author MD.SHAHIDUL ISLAM PRODHAN. Dept of CSE, GUB
+email: shahidulprodhan2000@gmail.com*/
+
+
 #include<iostream>
 #include<fstream>
 #include<iomanip>
